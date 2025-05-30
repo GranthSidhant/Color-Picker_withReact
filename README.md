@@ -4,7 +4,7 @@ A simple React application that allows users to pick a color using a color input
 
 ## Screenshot
 
-![Color Picker Screenshot](src/assets/color-picker.png)
+![Color Picker Screenshot](color-picker.png)
 
 ## Features
 
