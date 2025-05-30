@@ -2,11 +2,15 @@
 
 A simple React application that allows users to pick a color using a color input and displays the selected color.
 
+## Screenshot
+
+![Color Picker Screenshot](assets/screenshot.png)
+
 ## Features
 
 - Interactive color picker input
 - Displays the selected color code and a preview box
-- Responsive and clean UI
+- Responsive and clean UI with modern styling
 
 ## Getting Started
 
@@ -19,5 +23,5 @@ A simple React application that allows users to pick a color using a color input
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/color_picker_app.git
+   git clone https://github.com/GranthSidhant/color_picker_app.git
    cd color_picker_app

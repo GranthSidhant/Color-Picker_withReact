@@ -1,7 +1,7 @@
 import React, {useState} from 'react';
 
 function ColorPicker(){
-const [color, setColor] = useState('#000000');
+const [color, setColor] = useState('#f05a9b');
 const handleColorChange = (event) => {
     setColor(event.target.value);
 }
