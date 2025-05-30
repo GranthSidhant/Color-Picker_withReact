@@ -11,7 +11,7 @@ const handleColorChange = (event) => {
             <div className='color-display' style={{backgroundColor: color}}>
                 <p>Selected Color: {color}</p>
             </div>
-            <lable>Select a Color:</lable>
+            <label>Select a Color:</label>
             <input type="color" value={color} onChange={handleColorChange} />
         </div>
     )
